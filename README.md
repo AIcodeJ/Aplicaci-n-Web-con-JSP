@@ -1,11 +1,11 @@
-# Aplicación Web en Java con JSP
+# Algortimos
 
-_Esto es un app web para 
-obtener el área y perímetro de un triángulo equílatero con base a lo valores que deseamos poner en Java_
+_Esto es un app web para obtener el área y perímetro de un triángulo equílatero con base a lo valores que deseamos poner en Java_
 
 ## Comenzando 🚀
 
 _Esto es un ejercicio para realizar en Java, concretamente los conceptos de integración de POO con aplicaciones de servidores._
+
 
 ### Pre-requisitos 📋
 
@@ -30,17 +30,17 @@ Ingresa a la pagina de Oracle, descarga el JDK de acuerdo a tu sistema operativo
 _Paso 2: Configurar el IDE_
 
 ```
-En este caso, utilice Netbeans para poder trabajar en este proyecto, tú puedes usar el que gustes :)
+En este caso, utilice IntelliJ para poder trabajar en este proyecto, tú puedes usar el que gustes :)
 
 * 1. Abre el IDE y crea un nuevo proyecto
 * 2. Selecciona la versión del JDK
-* 3. Selecciona la ruta donde vas a guardar tu proyecto.
+* 3. Selecciona la ruta donde vas a guardar tu proyecto y listo
+```
 
 _Paso 3: Instalar GlassFish_
 
 ```
-Ingresa a la pagina de GlassFish, descarga el instalador de acuerdo a tu sistema operativo y configuras en el IDE para la visualización.
-
+Ingresa a la pagina de GlassFish, descarga el instalador de acuerdo a tu sistema operativo o lo configuras en el IDE cuando llegues a establecer con servidor correr.
 ```
 
 ## Construido con 🛠️
@@ -48,9 +48,9 @@ Ingresa a la pagina de GlassFish, descarga el instalador de acuerdo a tu sistema
 _Estas son las herramientas que utilizamos para el proyecto_
 
 * [JDK](https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html) - Kit de desarrollo de Java
-* [Netbeans](https://netbeans.apache.org/download/index.html) - El IDE de desarrollo que use
-* [GlassFish Server] - Aplicación de servidores (Lo encuentras dentro del IDE para su instalación)
+[Netbeans](https://netbeans.apache.org/download/index.html) - El IDE de desarrollo que use
 * [Git](https://www.jetbrains.com/es-es/idea/) - Para el control de versiones del proyecto
+* [GlassFish Server] - Aplicación de servidores (Lo encuentras dentro del IDE para su instalación)
 
 ## Versionado 📌
 

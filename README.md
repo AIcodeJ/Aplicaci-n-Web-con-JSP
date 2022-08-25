@@ -48,7 +48,7 @@ Ingresa a la pagina de GlassFish, descarga el instalador de acuerdo a tu sistema
 _Estas son las herramientas que utilizamos para el proyecto_
 
 * [JDK](https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html) - Kit de desarrollo de Java
-[Netbeans](https://netbeans.apache.org/download/index.html) - El IDE de desarrollo que use
+* [Netbeans](https://netbeans.apache.org/download/index.html) - El IDE de desarrollo que use
 * [Git](https://www.jetbrains.com/es-es/idea/) - Para el control de versiones del proyecto
 * [GlassFish Server] - Aplicación de servidores (Lo encuentras dentro del IDE para su instalación)
 

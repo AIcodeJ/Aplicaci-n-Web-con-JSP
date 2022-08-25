@@ -1,4 +1,4 @@
-# Algortimos
+# Aplicación Web con JSP
 
 _Esto es un app web para obtener el área y perímetro de un triángulo equílatero con base a lo valores que deseamos poner en Java_
 
